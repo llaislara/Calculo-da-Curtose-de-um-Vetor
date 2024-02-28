@@ -1,0 +1,1 @@
+# Calculo-da-Curtose-de-um-Vetor
